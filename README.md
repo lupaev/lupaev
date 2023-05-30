@@ -1,12 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sergej</h1>
-<h3 align="center">I'm Junior Java Developer</h3>
+[//]: # (<div id="header" align="center">)
+
+[//]: # (  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBjN2Q4NjMwNjAwODBiNDFkMjVmOGY4MjgwN2VlY2JkZDMyMmI5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SXxI9NlwvYiY3bRsck/giphy.gif" width="100"/>)
+
+[//]: # (  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxYmY0OTcxNDg1NzNiYjViYTQyYzgzNThmN2JjYmI5NWFjMjg2MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>)
+[//]: # (</div>)
 
 
 
 
-- 🌱 I’m currently learning **Java and Python**
 
-- 📫 How to reach me **lupaevsv@gmail.com**
+
+<h1>Hey there 👋</h1>
+<h3 align="left">I'm Sergej and I'm Junior Java Developer</h3>
+
+
+
+
+- I’m currently learning **Java and Python**
+- 📫 How to reach me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/lupaev_sergej) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:lupaevsv@gmail.com)
+
+[//]: # (<div id="badges">)
+
+[//]: # (<a href="mailto: lupaevsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" alt="Gmail Badge"></a>)
+
+[//]: # (<a href="https://t.me/lupaev_sergej"><img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram Badge"></a>)
+
+[//]: # (</div>)
 
 
 
@@ -18,3 +37,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lupaev&show_icons=true&locale=en" alt="lupaev" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lupaev&label=Profile%20views&color=0e75b6&style=flat" alt="lupaev" /> </p>
+
+[//]: # (<div id="badges">)
+
+[//]: # (<a href="mailto: lupaevsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" alt="Gmail Badge"></a>)
+
+[//]: # (<a href="https://t.me/lupaev_sergej"><img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram Badge"></a>)
+
+[//]: # (</div>)
