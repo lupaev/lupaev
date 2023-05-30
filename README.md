@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lupaev&repo=socksWarehous)](https://github.com/anuraghazra/github-readme-stats)
+
