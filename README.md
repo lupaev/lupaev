@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupaev)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupaev&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lupaev&repo=socksWarehous)](https://github.com/anuraghazra/github-readme-stats)
