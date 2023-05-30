@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lupaev" alt="lupaev" /></a> </p>
+[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lupaev" alt="lupaev" /></a> </p>)
 
 - 🌱 I’m currently learning **Java and Python**
 
@@ -23,5 +23,9 @@
 [//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupaev&" alt="lupaev" /></p>)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lupaev&label=Profile%20views&color=0e75b6&style=flat" alt="lupaev" /> </p>
+
+
+
+
 
 
