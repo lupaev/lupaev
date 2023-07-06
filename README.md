@@ -16,7 +16,7 @@
 
 
 
-- I’m currently learning **Java and Python**
+- I’m currently learning **Java**
 - 📫 How to reach me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/lupaev_sergej) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:lupaevsv@gmail.com)
 
 [//]: # (<div id="badges">)
