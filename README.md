@@ -11,7 +11,7 @@
 
 
 <h1>Hey there 👋</h1>
-<h3 align="left">I'm Sergej and I'm Junior Java Developer</h3>
+<h3 align="left">I'm Sergej and I'm Java Developer</h3>
 
 
 
